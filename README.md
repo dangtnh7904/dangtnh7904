@@ -40,4 +40,4 @@ I’m passionate about **data systems** and love exploring how data flows from c
 - Email: dang.tnh794@gmail.com
 
 ---
-✨ “Eager for new knowledge in this wonderful world of data and technology!”
+✨ Eager for new knowledge in this wonderful world of data and technology!
