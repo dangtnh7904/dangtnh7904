@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Dangg 
 
-🚀 Aspiring **Data Engineer** | Computer Science Apprentice | Global ICT Student @ HUST  
-
-I’m passionate about **data systems** and love exploring how data flows from collection to processing and insights. My goal is to design and build reliable, scalable, and efficient data pipelines.  
-
 ---
 
 ## 🔧 Tech Stack & Skills  
@@ -28,10 +24,6 @@ I’m passionate about **data systems** and love exploring how data flows from c
 
 ---
 
-## 🌱 Currently Learning  
-- Data Engineering techniques  
-- Cloud-native data pipelines  
-- Big Data frameworks & distributed systems  
 
 ---
 
@@ -40,4 +32,4 @@ I’m passionate about **data systems** and love exploring how data flows from c
 - Email: dang.tnh794@gmail.com
 
 ---
-✨ Eager for new knowledge in this wonderful world of data and technology!
+
