@@ -30,19 +30,10 @@ I am currently working as a Cloud Solution Engineer in Viettel's Storage team, f
 * Ansible
 * Prometheus and Grafana
 
-## 🎯 Career Direction
-
-```text
-Distributed Storage
-        ↓
-Cloud-Native Storage
-        ↓
-Cloud Platform / Solution Architect
-```
 
 My long-term goal is to become a Cloud Platform/Solution Architect with deep expertise in distributed and cloud-native storage.
 
 ## 📫 Connect with Me
 
-* LinkedIn: [Dang Tran](YOUR_LINKEDIN_URL)
+* LinkedIn: [Dang Tran](https://www.linkedin.com/in/dang-tnh7904/)
 * Email: [dang.tnh794@gmail.com](mailto:dang.tnh794@gmail.com)
